@@ -8,6 +8,8 @@
     color: rgb(163, 9, 163);
     max-width: auto;
     min-width: auto;
+    display:flex;
+    align-items:center;
     
     
     
@@ -41,6 +43,8 @@
     max-width: auto;
     min-width: auto;
     padding: auto;
+    display:flex;
+    align-items:center;
     
 
 }
