@@ -8,7 +8,7 @@
     color: rgb(163, 9, 163);
     max-width: auto;
     min-width: auto;
-    display:flex;
+    display: flex;
     justify-content: center;
     
     
@@ -20,7 +20,7 @@
     min-width: auto;
     display: inline-block;
     text-align: center;
-    display:flex;
+    display: flex;
     justify-content: center;
 }
 #img1,
@@ -43,7 +43,7 @@
     max-width: auto;
     min-width: auto;
     padding: auto;
-    display:flex;
+    display: flex;
     justify-content: center;
     
 
@@ -69,6 +69,6 @@ table {
     padding: auto;
     max-width: auto;
     min-width: auto;
-    display:flex;
+    display: flex;
     justify-content: center;
 }
