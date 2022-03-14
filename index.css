@@ -11,7 +11,7 @@
     
 }
 #pht {
-    padding-left: 300px;
+    padding: auto;
     max-width: auto;
     min-width: auto;
     display: inline-block;
@@ -24,7 +24,6 @@
 #img5,
 #img6 {
     height: 300px;
-    padding: 50px;
     max-width: auto;
     min-width: auto;
     
