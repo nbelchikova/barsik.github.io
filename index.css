@@ -8,8 +8,9 @@
     color: rgb(163, 9, 163);
     max-width: auto;
     min-width: auto;
-    display:flex;
-    justify-content: center;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
     
     
 }
@@ -19,8 +20,9 @@
     min-width: auto;
     display: inline-block;
     text-align: center;
-    display:flex;
-    justify-content: center;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
 #img1,
 #img2,
@@ -42,8 +44,9 @@
     max-width: auto;
     min-width: auto;
     padding: auto;
-    display:flex;
-    justify-content: center;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
     
 
 }
@@ -61,13 +64,15 @@ a {
     padding: auto;
     max-width: auto;
     min-width: auto;
-    display:flex;
-    justify-content: center;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
 table {
     padding: auto;
     max-width: auto;
     min-width: auto;
-    display:flex;
-    justify-content: center;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
