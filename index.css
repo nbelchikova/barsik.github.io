@@ -3,7 +3,7 @@
 }
 #greeting {
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     height: 30px;
     color: rgb(163, 9, 163);
     max-width: auto;
@@ -11,7 +11,7 @@
     
 }
 #pht {
-    margin-left: 300px;
+    padding-left: 300px;
     max-width: auto;
     min-width: auto;
     display: inline-block;
