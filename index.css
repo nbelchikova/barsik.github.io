@@ -36,6 +36,7 @@
     color: rgb(75, 58, 224);
     max-width: auto;
     min-width: auto;
+    padding: auto;
     
 
 }
@@ -50,10 +51,12 @@ a {
 }
 #vid {
     height: 700px;
-    margin-left: 700px;
+    padding: auto;
+    max-width: auto;
+    min-width: auto;
 }
 table {
-    margin-left: 250px;
+    padding: auto;
     max-width: auto;
     min-width: auto;
 }
