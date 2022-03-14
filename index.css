@@ -25,6 +25,8 @@
 #img6 {
     height: 300px;
     padding: 50px;
+    max-width: auto;
+    min-width: auto;
     
 }
 #dop,
