@@ -7,12 +7,12 @@
     height: 30px;
     color: rgb(163, 9, 163);
     max-width: 100%;
-    min-width: 100%;
+    
 }
 #pht {
     margin-left: 300px;
     max-width: 100%;
-    min-width: 100%;
+    min-width: 30%;
     display: inline-block;
 }
 #img1,
@@ -32,7 +32,7 @@
     height: 30px;
     color: rgb(75, 58, 224);
     max-width: 100%;
-    min-width: 100%;
+    
 
 }
 table,
@@ -51,5 +51,5 @@ a {
 table {
     margin-left: 250px;
     max-width: 100%;
-    min-width: 80%;
+    min-width: 30%;
 }
